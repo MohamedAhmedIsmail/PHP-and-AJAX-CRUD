@@ -1,0 +1,30 @@
+body
+{
+  background-color: lightblue;
+  color:black;
+  font-weight: bold;
+  font-size: 1.2em;
+}
+form
+{
+  background-color:#9a550f;
+  padding:20px;
+  border-radius: 10px;
+  margin-top: 150px;
+}
+table
+{
+  background-color: #9a550f;
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 150px;
+  margin-left: 10px;
+}
+table a
+{
+  color:black;
+}
+table a:hover
+{
+  color:#9a550f;
+}
